@@ -1,3 +1,27 @@
+// A number is called happy if it leads to 1 after a sequence of steps where in each step number is replaced by sum of sequnces of its digits.
+
+/*
+19 -> 1^2+9^2 = 1+81 = 82
+	8^2+2^2 = 64+4 = 68
+	6^2+8^2 = 36+64 = 100
+	1^2+0^2+0^2 = 1
+so 19 is a happi number.
+	
+20 -> 2^2+0^2 = 4+0 = 4
+	4^2 = 16
+	1^2+6^2 = 1+36 = 37
+	3^2+7^2 = 9+49 = 58
+	5^2+8^2 = 25+64 = 89
+	8^2+9^2 = 64+81 = 145
+	1^2+4^2+5^2 + 1+16+25 = 42
+	4^2+2^0 = 16+4 = 20
+	2^2+0^2 = 4+0 = 4
+so 20 is not a happi number.
+
+*/
+
+
+
 package MagicNumber;
 
 import java.util.HashSet;
