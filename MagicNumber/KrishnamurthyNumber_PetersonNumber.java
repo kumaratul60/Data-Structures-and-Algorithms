@@ -1,3 +1,14 @@
+/*
+
+A Krisnamurthy or Peterson number is a number whose sum of factorial of digits is equals to the number itself.
+
+145 -> 1! + 4! + 5! = 1+24+120 = 145 is.
+
+235 -> 2!+3!+5! = 2+6+120 = 128 is not.
+
+*/
+
+
 package MagicNumber;
 
 import java.util.Scanner;
