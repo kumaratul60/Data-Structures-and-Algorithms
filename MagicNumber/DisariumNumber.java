@@ -1,3 +1,13 @@
+/*
+
+A number is called disarium if sum of its digits powered with their respective positions is equal to the number itself.
+
+135 -> 1^1 + 3^2 + 5^3 = 1+9+125 = 135 is.
+
+801 -> 8^1 + 0^2 +1^3 = 8+0+1 + 9 is not.
+*/
+
+
 package MagicNumber;
 
 import java.util.Scanner;
