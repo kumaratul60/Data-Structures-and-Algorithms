@@ -1,3 +1,7 @@
+// A mystery number is a number which can be expressed as sum of two number and those two number should be reverse of each other.
+//121 is mystery number because 29+92 = 121
+
+
 package MagicNumber;
 
 import java.util.Scanner;
