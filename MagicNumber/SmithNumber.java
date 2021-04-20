@@ -1,8 +1,5 @@
 //A smith number is a composite number whose sum of digit is equal to sum of digit in its prime factorization.
 
-// 9*9 = 81 => 8+1 = 9 is a smith number
-// 12*12 = 1+4+4 = 9  not a smit number	
-
 // 6 -> prime factorization  = 2,3  and sum of this is 2+3 = 5 so 6 is not a smith number
 // 666 -> ------------------ = 2,3,3,3,7 ------------ 2+3+3+3+7 = 18 ------------------
 
