@@ -1,3 +1,11 @@
+// A pair is amicable is sum of divisors(excluding the number inself) of 1st number is equal to the second number and vice-versa.
+
+// 220 ,284
+// 220 divisor sum => 1+2+4+5+10+11+20+22+44+55+110 = 284
+// 284 divisor sum => 1+2+4+71+142 = 220
+
+
+
 package MagicNumber;
 
 import java.util.Scanner;
