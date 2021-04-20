@@ -1,3 +1,8 @@
+//A neaon number has sum of digits of square of number equal to the origit number.
+	
+// 9*9 = 81 => 8+1 = 9 is a neon number
+// 12*12 = 1+4+4 = 9  not a neon number	
+
 package MagicNumber;
 
 import java.util.Scanner;
