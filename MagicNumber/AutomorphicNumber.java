@@ -1,3 +1,11 @@
+// A number is automorphic of its square ends with the same digits as the original number.
+
+// 76*76 = 5776          (last pair is 76 )
+//            __
+
+// 7*7 = 49
+
+
 package MagicNumber;
 
 import java.util.Scanner;
