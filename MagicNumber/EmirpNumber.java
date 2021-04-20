@@ -1,3 +1,12 @@
+/*
+
+An emirp number is a number which is prime from  backwards and forwards.
+
+13 and 31 are both prime number, so this is emirp number.
+
+*/
+
+
 package MagicNumber;
 
 import java.io.IOException;
