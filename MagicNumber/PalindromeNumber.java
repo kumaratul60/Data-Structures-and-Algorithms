@@ -1,3 +1,11 @@
+// A number is palindrome, if the reverse of the number is equal to the original number.
+
+// 1234 ==> 4321  not a palindrome.
+// 2002,12321 are palindrome.
+
+
+
+
 package MagicNumber;
 
 import java.util.Scanner;
