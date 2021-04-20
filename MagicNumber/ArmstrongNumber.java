@@ -1,3 +1,6 @@
+// 153 => 1^3 + 5^3 + 3^3   = 1+125+81  => 153
+
+
 package MagicNumber;
 
 import java.util.Scanner;
